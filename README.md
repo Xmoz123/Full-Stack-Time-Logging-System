@@ -6,6 +6,16 @@ A full-stack workforce management web application developed during my **Full Sta
 
 The Employee Time Logging and Management System is designed to streamline employee work tracking and workforce management. It provides separate portals for employees and employers with role-based authentication, enabling efficient work log management, leave processing, employee verification, and administrative monitoring.
 
+## Interface Guide
+
+The application consists of two role-based portals:
+
+🟢 **Green Theme** – Employee Portal  
+Employees can log work logs, apply for leave, manage their profile, and track task reviews.
+
+🔵 **Blue Theme** – Employer Portal  
+Employers can verify employees, review work logs, approve/reject leave requests, assign priorities, and monitor workforce activities.
+
 ---
 
 ## Features
